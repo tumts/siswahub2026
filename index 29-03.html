@@ -1671,7 +1671,7 @@
         return (
           <div className="p-6 animate-fadeIn pb-24 pt-10">
             <div className="flex justify-between items-center mb-8">
-                <h2 className="text-2xl font-black">{isSuperAdmin ? 'SUPER ADMIN' : 'ADMIN PANTAU'}</h2>
+                <h2 className="text-2xl font-black">{isSuperAdmin ? 'USER ADMIN' : 'ADMIN'}</h2>
                 <div className="flex gap-2">
                     {config.enableGallery !== false && (
                         <button onClick={() => setShowGallery(!showGallery)} className={`p-3 rounded-2xl transition-colors shadow-md ${showGallery ? 'bg-blue-600 text-white' : 'bg-blue-50 text-blue-600 hover:bg-blue-100'}`} title="Galeri Kelas"><Icons.Image/></button>
