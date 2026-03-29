@@ -4,8 +4,8 @@
  * Storage: Google Drive
  */
 
-const SPREADSHEET_ID = '1NPGuKFP35_7oT5c6bhkvqo2AWix-Ym3o0RtJBoUHvM4'; 
-const FOLDER_DRIVE_ID = '1FWpJ7uFi_GSaNPjHRHpB7zl85yHss0MA'; 
+const SPREADSHEET_ID = ''; 
+const FOLDER_DRIVE_ID = ''; 
 
 /**
  * 1. FUNGSI SETUP DATABASE
